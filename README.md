@@ -9,8 +9,8 @@ O objetivo do projeto foi estudar a como trabalhar com moedas dentro de um progr
 ### 📱Funções estudadas no projeto
 
 - [x] CreateSpecificCulture
-- [ ] CultureInfo
-- [ ] ToString
+- [x] CultureInfo
+- [x] ToString
 - [x] C
 - [x] P
 - [x] N
